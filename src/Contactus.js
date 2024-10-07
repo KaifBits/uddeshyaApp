@@ -123,7 +123,7 @@ const Contactus=()=> {
            
             <div class="flex flex-col-reverse  md:flex-row md:justify-center justify-end  ">
               <div class="md:w-80 w-80 flex flex-col items-center md:items-start h-auto ">
-                <h2 class="text-lg font-bold text-orange-400 ">Branch 1:</h2>
+                <h2 class="text-lg font-bold text-orange-400 w-40 ">Branch 1:</h2>
                 <h3 class="font-bold text-lg mb-2 text-purple-700">MAINIKONDA BRANCH</h3>
                 <p class="text-black font-medium px-5 md:px-0">
                     Near Lanco Hills Circle, Sri Laxmi Nagar Colony, Mainkonda, Hyderabad, Telangana 500089 
@@ -144,7 +144,7 @@ const Contactus=()=> {
                     </div>
                 </div>
               <div class="md:w-80 w-full flex flex-col items-center md:items-start h-auto lg:ml-5 ">
-                <h2 class="text-lg font-bold text-orange-400 ">Branch 2:</h2>
+                <h2 class="text-lg font-bold text-orange-400 w-40">Branch 2:</h2>
                 <h3 class="font-bold text-lg mb-2 text-purple-700">KONDAPUR BRANCH</h3>
                 <p class="text-black font-medium px-5 md:px-0">
                 Manasa Residency, 5th floor, Botanical Garden Road, Kondapur
