@@ -116,7 +116,7 @@ const Contactus=()=> {
   <div >
     <div class="max-w-7xl mx-auto p-8">
     
-        <h1 class="text-center text-2xl font-bold mb-8">OUR CENTRES</h1>
+        <h1 class="text-center text-2xl font-bold mb-8">OUR CENTERS</h1>
         
        
         <div class=" flex flex-col space-y-6">
